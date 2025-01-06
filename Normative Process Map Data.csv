@@ -1,0 +1,57 @@
+Intervention_New,NormativeOrder,Description_new,NormativeTime,Location,Staff,Intervention_Full,Description
+ART New,1,Registration,3,Reception,Receptionist,HIV treatment HIV treatment for newly diagnosed patient ,Patient registration
+ART New,2,Health Education,8,Counseling Room,Counselor,HIV treatment HIV treatment for newly diagnosed patient ,Health Education
+ART New,3,Counseling,15,Counseling Room,Counselor,,
+ART New,4,Weight/Vitals Taken,5,Consultation Room,Counselor,HIV treatment HIV treatment for newly diagnosed patient ,Vitals/Weight taken
+ART New,5,Medical History Obtained,5,Consultation Room,Clinical Officer,,
+ART New,6,Nutritional Assessment,4,Counseling Room,Clinical Officer,HIV treatment HIV treatment for newly diagnosed patient ,Nutritional Assessment
+ART New,7,Consultation,8,Consultation Room,Clinical Officer,HIV treatment HIV treatment for newly diagnosed patient ,Consultation
+ART New,8,Blood Sample Drawn,3,Laboratory,Lab Technician,,
+ART New,9,Linkage to Care,3,Consultation Room,Clinical Officer,,
+ART New,10,Meds Prescribed,5,Consultation Room,Clinical Officer,,
+ART New,11,Meds Dispensed,3,Pharmacy,Pharmacist,HIV treatment HIV treatment for newly diagnosed patient ,Meds Dispensed
+ART New,12,Set Next Appointment,3,Consultation Room,Nurse,HIV treatment HIV treatment for newly diagnosed patient ,Set Next Appointment
+ART Stable,1,Registration,3,Reception,Receptionist,HIV treatment HIV treatment for continuing HIV Patient and Virally Suppres ,Patient registration
+ART Stable,2,Weight/Vitals Taken,5,Consultation Room,Counselor,HIV treatment HIV treatment for continuing HIV Patient and Virally Suppres ,Vitals/Weight taken
+ART Stable,3,Counseling,15,Counseling Room,Counselor,HIV treatment HIV treatment for continuing HIV Patient and Virally Suppres ,Counselling session
+ART Stable,4,Consultation,8,Consultation Room,Clinical Officer,HIV treatment HIV treatment for continuing HIV Patient and Virally Suppres ,Consultation
+ART Stable,5,Blood Sample Drawn,3,Laboratory,Lab Technician,HIV treatment HIV treatment for continuing HIV Patient and Virally Suppres ,HIV test taken
+ART Stable,6,Meds Prescribed,5,Consultation Room,Clinical Officer,,
+ART Stable,7,Meds Dispensed,3,Pharmacy,Pharmacist,HIV treatment HIV treatment for continuing HIV Patient and Virally Suppres ,Meds Dispensed
+ART Stable,8,Set Next Appointment,3,Consultation Room,Nurse,,
+ART Unstable,1,Registration,3,Reception,Receptionist,HIV treatment HIV treatment for continuing HIV Patient and Not Virally Sup ,Patient registration
+ART Unstable,2,Health Education,8,Counseling Room,Counselor,,
+ART Unstable,3,Counseling,15,Counseling Room,Counselor,HIV treatment HIV treatment for continuing HIV Patient and Not Virally Sup ,Counselling session
+ART Unstable,4,Weight/Vitals Taken,5,Consultation Room,Counselor,HIV treatment HIV treatment for continuing HIV Patient and Not Virally Sup ,Vitals/Weight taken
+ART Unstable,5,Medical History Obtained,5,Consultation Room,Clinical Officer,,
+ART Unstable,6,Consultation,8,Consultation Room,Clinical Officer,HIV treatment HIV treatment for continuing HIV Patient and Not Virally Sup ,Consultation
+ART Unstable,7,Blood Sample Drawn,3,Laboratory,Lab Technician,HIV treatment HIV treatment for continuing HIV Patient and Not Virally Sup ,HIV test taken
+ART Unstable,8,Linkage to Care,3,Consultation Room,Clinical Officer,,
+ART Unstable,9,Meds Prescribed,5,Consultation Room,Clinical Officer,HIV treatment HIV treatment for continuing HIV Patient and Not Virally Sup ,Meds Prescribed
+ART Unstable,10,Meds Dispensed,3,Pharmacy,Pharmacist,HIV treatment HIV treatment for continuing HIV Patient and Not Virally Sup ,Meds Dispensed
+ART Unstable,11,Set Next Appointment,3,Consultation Room,Nurse,,
+HIV Testing,1,Registration,3,Reception,Receptionist,HIV testing  ,Patient registration
+HIV Testing,2,Pre-Counseling,12,Counseling Room,Counselor,,
+HIV Testing,3,Eligibility Screening,5,Counseling Room,Counselor,,
+HIV Testing,4,HIV Test Taken,10,Counseling Room,Counselor,HIV testing  ,HIV test taken
+HIV Testing,5,Counseling,15,Counseling Room,Counselor,HIV testing  ,Counselling session
+HIV Testing,6,Medical History Obtained,5,Consultation Room,Assistant Medical Officer,,
+HIV Testing,7,Health Education,15,Consultation Room,Assistant Medical Officer,,
+HIV Testing,8,Consultation,8,Consultation Room,Assistant Medical Officer,HIV testing  ,Consultation
+HIV Testing,9,Weight/Vitals Taken,5,Consultation Room,Assistant Medical Officer,HIV testing  ,Vitals/Weight taken
+HIV Testing,10,Blood Sample Drawn,3,Laboratory,Lab Technician,,
+HIV Testing,11,Set Next Appointment,2,Consultation Room,Assistant Medical Officer,HIV testing  ,Payment processed
+VMMC,1,Group Counseling,2,Waiting Area,Counselor,VMMC  ,Counselling session
+VMMC,2,Registration,3,Reception,Receptionist,VMMC  ,Patient registration
+VMMC,3,Pre-Counseling,5,Counseling Room,Counselor,VMMC  ,IEC provided
+VMMC,4,Weight/Vitals Taken,3,Consultation Room,Counselor,VMMC  ,Vitals/Weight taken
+VMMC,5,HIV Test Taken,15,Consultation Room,Nurse,,
+VMMC,6,Consultation,15,Consultation Room,Nurse,,
+VMMC,7,Medical History Taken,5,Consultation Room,Nurse,,
+VMMC,8,Eligibility Screening,2,Consultation Room,Nurse,,
+VMMC,9,VMMC Surgery Prep,10,Procedure Room,Doctor,,
+VMMC,10,VMMC Surgery,60,Procedure Room,Doctor,VMMC  ,VMMC surgery
+VMMC,11,VMMC Post-Surgical Care,30,Procedure Room,Doctor,,
+VMMC,12,Meds Prescribed,5,Consultation Room,Nurse,,
+VMMC,13,Meds Dispensed,4,Consultation Room,Pharmacist,,
+VMMC,14,Set Next Appointment,5,Consultation Room,Counselor,,
