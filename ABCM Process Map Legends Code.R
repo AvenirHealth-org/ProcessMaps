@@ -1,7 +1,11 @@
 ##########################################################################################################
 # ABCM Process Maps
 
-# Creating Legend Graphics
+# The Analytics for Advancing the Financial Sustainability of the HIV/AIDS Response (AFS) contract is funded 
+# by the United States Agency for International Development (USAID) under Contract No. 7200AA23C00043, March 2023-March 2027. 
+# This contract is made possible by the generous support of the American people through support from USAID and the 
+# United States President’s Emergency Plan for AIDS Relief (PEPFAR). The contents were prepared by staff of the AFS contract 
+# and do not necessarily reflect the views of USAID or the United States Government.
 
 #######################################################################################################
 
