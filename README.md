@@ -16,7 +16,7 @@ Process maps can also be developed with the observational data collected as part
 Instructions for generating process maps using R are provided in the following pages (R code and sample files are available at: https://github.com/AvenirHealth-org/ProcessMaps/). 
 
 ## FILES AVAILABLE ON GITHUB
-The following sample files are available in the GitHub repository for process maps (file names in bold with a description of the file is listed after the name): 
+The following sample files are available in the GitHub repository for process maps (file names in **bold** with a description of the file is listed after the name): 
 
 o	**ABCM Process Map Code.R** - Code to create process maps
 
